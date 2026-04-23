@@ -1,2 +1,8 @@
 # The--EV--Revolution--in--Washington-s
 In this amazing project, I can display the types of cars available in the state of Washington, USA, along with all the necessary details about each car. This project utilizes SQL, DAX, and M programming languages, and the data was sourced from the Washington State Open Data Portal.
+
+#First: I developed a plan to define precisely what I wanted from this data and which columns to use in this project
+#Second: Using SQL, I retrieved the data and selected the columns to be used. I then performed some operations on the columns to pinpoint the exact location according to latitude and longitude. I encountered a problem where the latitude and longitude were all in one column, along with some text. I addressed this using SQL, but another issue arose: some states had very little data. This was a mistake because the percentage was too low, so I removed the other states and focused solely on Washington State for the project.
+#Third: In Power BI, I retrieved the data from SSMS to perform the necessary operations using DAX and M programming languages.
+#Fourth: In this amazing project, I performed extensive analysis, allowing you to see the desired county on the map, the number of cities within it, and detailed information. This project presents the types of cars available and their exact numbers, arranged according to the latitude and longitude of each vehicle. This was a fantastic aspect of the project
+#Fifth: In this project, I presented the most commonly used cars in each province, the most frequently used cars overall, and the most common car types. This excellent project allows you to easily see all these details

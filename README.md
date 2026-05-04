@@ -7,6 +7,10 @@ This project dives into the **Electric Vehicle (EV) ecosystem of Washington Stat
 
 ---
 
+
+## 🛠️ Tools & Technologies
+`SQL (SSMS)` · `Power BI` · `Power Query (M Language)` · `DAX` · `Data Modeling`
+
 ##  Step 1 — Defining the Analytical Plan
 Before touching the data, I started with a clear plan: *What exactly do I want to learn from this dataset, and which columns will get me there?*
 
@@ -48,6 +52,3 @@ The final layer of analysis answers the critical business questions:
 These insights are presented clearly and interactively, making it easy to identify trends and patterns at both the state and local level.
 
 ---
-
-## 🛠️ Tools & Technologies
-`SQL (SSMS)` · `Power BI` · `Power Query (M Language)` · `DAX` · `Data Modeling`
